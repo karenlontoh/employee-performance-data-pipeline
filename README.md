@@ -1,4 +1,4 @@
-# **Employee Performance Analysis Pipeline 📈**
+# **Employee Performance Analysis Pipeline 👔📊**
 
 An end-to-end data pipeline for analyzing employee performance using PostgreSQL, Apache Airflow, Elasticsearch, and Kibana.
 
